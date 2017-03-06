@@ -1,4 +1,4 @@
-package com.example.resr;
+package com.example.rest;
 
 import java.util.Date;
 
